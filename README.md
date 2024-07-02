@@ -2,7 +2,7 @@
 The goal of this group project is to provide insights to potential political campaign moves for U.S. swing states supported by big data analysis of voter turnout in Georgia.
 
 
-The following listed files include code and model building steps. The entire project is neatly reported and presented [here]().
+The following listed files include code and model building steps. The entire project is neatly reported and presented [here](https://liang-sarah.github.io/voter-turnout/project-report.pdf).
 
 <br />
 
