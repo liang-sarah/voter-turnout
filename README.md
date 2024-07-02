@@ -28,5 +28,10 @@ Written report with abstract, project objectives, exploratory/preliminary analys
 This is a Jupyter notebook with code cells and commentary cells corresponding to the plots in the final pdf report.
 <br />
 <br />
-### `main_code.py`
-Python script file with just code cells for report plots.
+### `data-visualizations-code.py`
+Python script file with code for all plots conducted (report plots plus some).
+
+<br />
+<br />
+### `logistic-regression-code.py`
+Python script file with code for model building and updating using PySpark SQL and PySpark ML features.
