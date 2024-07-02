@@ -28,5 +28,5 @@ Written report with abstract, project objectives, exploratory/preliminary analys
 This is a Jupyter notebook with code cells and commentary cells corresponding to the plots in the final pdf report.
 <br />
 <br />
-### `main_code.pdf`
-Generated pdf file version from above Jupyter notebook.
+### `main_code.py`
+Python script file with just code cells for report plots.
