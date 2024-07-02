@@ -1,4 +1,6 @@
 # voter-turnout
+*Collaborators: Sarah Liang, George Weale, Ryan Lee, Ryan Yee*
+
 The goal of this group project is to provide insights to potential political campaign moves for U.S. swing states supported by big data analysis of voter turnout in Georgia.
 
 
